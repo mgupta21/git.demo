@@ -1,2 +1,2 @@
 # Readme File for Myapp
-@ Author mgupta
+@ Author - Mayank G.
